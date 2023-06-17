@@ -1,0 +1,45 @@
+.prof-pic{
+	display:inline-block;
+}
+.prof-name{
+	display:inline-block;
+	width:93%;
+	margin:0 auto;
+}
+a{
+	color:black;
+}
+.para{
+	text-align:center;
+	background-color:black;
+	color:white;
+	font-style:bold;
+}
+button{
+	width:170px;
+	height:50px;
+	background-color:black;
+	color:white;
+	border:solid white;
+	border-width: 3px;
+}
+.txt{
+	border-left:4px solid lightgray;
+}
+.para1{
+	display:inline-block;
+	font-size:10px;
+}
+.percentage{
+	margin-top:	-8em;
+	margin-left:70em;
+	background-color:lightgray;
+	padding:1.5em;
+	padding-right:1em;
+	width:40px;
+	color:black;
+}
+img{
+	height:25px;
+	width:25px;
+}
